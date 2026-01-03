@@ -23,7 +23,8 @@ The dataset contains customer information such as:
 4. Visualization of customer segments
 
 ## 📊 Output
-Customers are grouped into different clusters based on similarity.
+### Customer Clusters
+![Customer Clusters](output/clusters.png)
 
 ## 🚀 How to Run
 ```bash
