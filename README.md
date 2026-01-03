@@ -33,4 +33,4 @@ The dataset contains customer information such as:
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
-python customer_kmeans.py
+python customer_kmeans.py 
