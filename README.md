@@ -28,7 +28,7 @@ The dataset contains customer information such as:
 ![Elbow Method](output/elbow_method.png)
 
 ### Customer Segmentation Result
-![Customer Clusters](output/clusters.png)
+![Customer Clusters](output/customer_clusters.png)
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
