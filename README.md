@@ -16,14 +16,11 @@ To segment customers based on Annual Income and Spending Score using K-Means clu
 - NumPy
 - Scikit-learn
 - Matplotlib
-
-## 📊 Output
-
 ### Elbow Method
-<img src="output/elbow_method.png">
+<img src="output/elbow_method.png" width="600"/>
 
 ### Customer Segmentation Result
-<img src="output/customer_clusters.png">
+<img src="output/customer_clusters.png" width="600"/>
 
 ## 📁 Project Files
 - customer_kmeans.py – K-Means clustering implementation
