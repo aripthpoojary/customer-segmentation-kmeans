@@ -18,8 +18,12 @@ To segment customers based on Annual Income and Spending Score using K-Means clu
 - Matplotlib
 
 ## 📊 Output
-- Elbow Method graph to determine optimal number of clusters
-- Customer segmentation visualization
+
+### Elbow Method
+<img src="output/elbow_method.png">
+
+### Customer Segmentation Result
+<img src="output/customer_clusters.png">
 
 ## 📁 Project Files
 - customer_kmeans.py – K-Means clustering implementation
