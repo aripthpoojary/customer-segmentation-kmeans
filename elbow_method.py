@@ -41,4 +41,4 @@ plt.savefig("/storage/emulated/0/elbow_method.png")
 plt.close()
 
 print("✅ Elbow graph saved")
-print("📁 Location: Internal Storage → elbow_method.png") 
+print("📁 Location: Internal Storage → elbow_method.png")
