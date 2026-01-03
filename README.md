@@ -18,7 +18,7 @@ The dataset contains customer information such as:
 
 ## 🔍 Methodology
 1. Data loading and preprocessing
-2. Elbow method to find optimal clusters
+2. Elbow method to find optimal number of clusters
 3. K-Means clustering
 4. Visualization of customer segments
 
