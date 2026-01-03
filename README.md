@@ -26,6 +26,9 @@ The dataset contains customer information such as:
 ### Customer Clusters
 ![Customer Clusters](output/clusters.png)
 
+### Elbow Method
+![Elbow Method](output/elbow_method.png)
+
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
