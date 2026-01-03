@@ -23,12 +23,11 @@ The dataset contains customer information such as:
 4. Visualization of customer segments
 
 ## 📊 Output
-### Customer Clusters
-![Customer Clusters](output/clusters.png)
-
 ### Elbow Method
 ![Elbow Method](output/elbow_method.png)
 
+### Customer Segmentation Result
+![Customer Clusters](output/clusters.png)
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
