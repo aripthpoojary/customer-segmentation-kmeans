@@ -23,6 +23,7 @@ The dataset contains customer information such as:
 4. Visualization of customer segments
 
 ## 📊 Output
+
 ### Elbow Method
 ![Elbow Method](output/elbow_method.png)
 
