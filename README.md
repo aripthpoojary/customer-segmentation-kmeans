@@ -1,36 +1,30 @@
 # Customer Segmentation using K-Means Clustering
 
 ## 📌 Project Overview
-This project applies K-Means clustering to segment customers based on their purchasing behavior.
-It helps businesses understand customer groups and improve marketing strategies.
+This project implements K-Means clustering to segment customers based on their purchase behavior using unsupervised learning.
 
-## 🧾 Dataset
-The dataset contains customer information such as:
-- Annual Income
-- Spending Score
+## 🎯 Aim
+To segment customers based on Annual Income and Spending Score using K-Means clustering.
 
-## ⚙️ Technologies Used
+## 🧠 Algorithm Used
+- K-Means Clustering
+- Elbow Method
+
+## 🛠 Technologies Used
 - Python
 - Pandas
 - NumPy
-- Matplotlib
 - Scikit-learn
-
-## 🔍 Methodology
-1. Data loading and preprocessing
-2. Elbow method to find optimal number of clusters
-3. K-Means clustering
-4. Visualization of customer segments
+- Matplotlib
 
 ## 📊 Output
+- Elbow Method graph to determine optimal number of clusters
+- Customer segmentation visualization
 
-### Elbow Method
-<img src="output/elbow_method.png" alt="Elbow Method" />
-
-### Customer Segmentation Result
-<img src="output/clusters.png" alt="Customer Clusters" />
+## 📁 Project Files
+- customer_kmeans.py – K-Means clustering implementation
+- elbow_method.py – Elbow method analysis
+- customer_clusters.png – Clustering output graph
+- elbow_method.png – Elbow graph
 
 ## 🚀 How to Run
-```bash
-pip install -r requirements.txt
-python customer_kmeans.py 
