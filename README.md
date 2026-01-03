@@ -25,10 +25,10 @@ The dataset contains customer information such as:
 ## 📊 Output
 
 ### Elbow Method
-<img src="output/elbow_method.png" alt="Elbow Method" width="600"/>
+<img src="output/elbow_method.png" alt="Elbow Method" />
 
 ### Customer Segmentation Result
-<img src="output/clusters.png" alt="Customer Clusters" width="600"/>
+<img src="output/clusters.png" alt="Customer Clusters" />
 
 ## 🚀 How to Run
 ```bash
